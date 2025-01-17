@@ -607,11 +607,19 @@ return {
         weight = 200,
     },
 
-    ['handcuffs'] = {
-        label = 'Handcuffs',
-        weight = 200,
+	['handcuffs'] = {
+        label = 'Hand Cuffs',
+        weight = 2,
+        stack = true,
+        close = true,
     },
-    -- Following is the code setup to paste items into ox_inventory 
+
+    ['bobby_pin'] = {
+        label = 'Bobby Pin',
+        weight = 2,
+        stack = true,
+        close = true,
+    },
 
 	['bandage'] = {
         label = 'Bandage',
