@@ -122,10 +122,10 @@ return {
 		},
 
 		['WEAPON_CARBINERIFLE_MK2'] = {
-			label = 'Carbine Rifle MK2',
+			label = 'PD AR',
 			weight = 3000,
 			durability = 0.03,
-			ammoname = 'ammo-rifle'
+			ammoname = 'ammo-rifle2'
 		},
 
 		['WEAPON_CERAMICPISTOL'] = {
@@ -491,7 +491,7 @@ return {
 		},
 
 		['WEAPON_PISTOL_MK2'] = {
-			label = 'Pistol MK2',
+			label = 'PD Pistol',
 			weight = 1000,
 			durability = 0.5,
 			ammoname = 'ammo-9'
