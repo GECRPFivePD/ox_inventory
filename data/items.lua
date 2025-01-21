@@ -799,5 +799,8 @@ return {
         description = '',
 		stack = true,
     },
-
+    ["taser_cartridge"] = {
+		label = "Taser Cartridge",
+		description = "To reload the taser",
+	},
 }
