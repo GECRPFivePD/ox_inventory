@@ -658,9 +658,10 @@ return {
 		},
 
 		['WEAPON_STUNGUN'] = {
-			label = 'Tazer',
+			label = 'Taser X2',
 			weight = 227,
 			durability = 0.1,
+			ammoname = 'taser_cartridge'
 		},
 
 		['WEAPON_AUTOSHOTGUN'] = {
