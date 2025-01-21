@@ -197,12 +197,24 @@ return {
         label = 'Drivers License',
     },
 
-    ['weaponlicense'] = {
+    ['boat_license'] = {
+        label = 'Boat License',
+    },
+
+    ['helicopter_license'] = {
+        label = 'Helicopter License',
+    },
+
+    ['pilot_license'] = {
+        label = 'Pilot License',
+    },
+
+    ['weapon_license'] = {
         label = 'Weapon License',
     },
 
     ['lawyerpass'] = {
-        label = 'Lawyer Pass',
+        label = 'Lawyer License',
     },
 
     ['radio'] = {
