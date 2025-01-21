@@ -815,4 +815,16 @@ return {
 		label = "Taser Cartridge",
 		description = "To reload the taser",
 	},
+    ["uvlight"] = {
+		label = "UV Light",
+        weight = 25,
+		description = "To scan for fingerprints",
+        close = true,
+	},
+    ["bleachwipes"] = {
+		label = "Bleach Wipes",
+        weight = 25,
+		description = "To clean and sanatize",
+        close = true,
+	},
 }
