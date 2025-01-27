@@ -564,7 +564,7 @@ return {
         weight = 200,
     },
 
-    ['vodka'] = {
+  --[[  ['vodka'] = {
         label = 'Vodka',
         weight = 500,
     },
@@ -577,7 +577,48 @@ return {
     ['beer'] = {
         label = 'beer',
         weight = 200,
-    },
+    },]]
+
+    ["alcoholmeter"] = {
+		label = "Alcoholmeter",
+		weight = 1,
+		stack = true,
+		close = true,
+		consume = 0,
+		server = {
+			export = 'BS-Breathalyzer.openBreathalyzer'
+		}
+	},
+
+	["beer"] = {
+		label = "Beer",
+		weight = 1,
+		stack = true,
+		close = true,
+		server = {
+			export = 'BS-Breathalyzer.usedAlcohol'
+		}
+	},
+
+	["vodka"] = {
+		label = "Vodka",
+		weight = 1,
+		stack = true,
+		close = true,
+		server = {
+			export = 'BS-Breathalyzer.usedAlcohol'
+		}
+	},
+
+	["whiskey"] = {
+		label = "Whiskey",
+		weight = 1,
+		stack = true,
+		close = true,
+		server = {
+			export = 'BS-Breathalyzer.usedAlcohol'
+		}
+	},
 
     ['sandwich'] = {
         label = 'beer',
