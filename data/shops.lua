@@ -152,6 +152,89 @@ return {
 		}
 	},
 
+	--- HAYES AUTO MECHANIC STORES ----
+
+	MechanicTuningShop = {
+		name = 'Tuning Shop',
+		groups = {
+			['mechanic'] = 0
+		},
+		blip = {
+			id = 403, colour = 69, scale = 0.8
+		}, inventory = {
+			{ name = 'ceramic_brakes', price = 26 },
+			{ name = 'drift_tuning_kit', price = 26 },
+			{ name = 'awd_drivetrain', price = 26 },
+			{ name = 'rwd_drivetrain', price = 26 },
+			{ name = 'fwd_drivetrain', price = 26 },
+			{ name = 'i4_engine', price = 26 },
+			{ name = 'v6_engine', price = 26 },
+			{ name = 'v8_engine', price = 26 },
+			{ name = 'v12_engine', price = 26 },
+			{ name = 'turbocharger', price = 26 },
+			{ name = 'slick_tyres', price = 26 },
+			{ name = 'semi_slick_tyres', price = 26 },
+			{ name = 'offroad_tyres', price = 26 }
+		}, locations = {
+			vec3(-1423.02, -456.38, 35.91)
+		}, targets = {
+		}
+	},
+
+	MechanicServiceShop = {
+		name = 'Service Shop',
+		groups = {
+			['mechanic'] = 0
+		},
+		blip = {
+			id = 403, colour = 69, scale = 0.8
+		}, inventory = {
+			{ name = 'engine_oil', price = 26 },
+			{ name = 'clutch_replacement', price = 26 },
+			{ name = 'air_filter', price = 26 },
+			{ name = 'spark_plug', price = 26 },
+			{ name = 'brakepad_replacement', price = 26 },
+			{ name = 'tyre_replacement', price = 26 },
+			{ name = 'suspension_parts', price = 26 },
+			{ name = 'ev_motor', price = 26 },
+			{ name = 'ev_battery', price = 26 },
+			{ name = 'ev_coolant', price = 26 },
+			{ name = 'mechanic_tablet', price = 26 }
+		}, locations = {
+			vec3(-1414.71, -451.23, 35.91)
+		}, targets = {
+		}
+	},
+
+	MechanicPartShop = {
+		name = 'Parts & Kits Shop',
+		groups = {
+			['mechanic'] = 0
+		},
+		blip = {
+			id = 403, colour = 69, scale = 0.8
+		}, inventory = {
+			{ name = 'cosmetic_part', price = 26 },
+			{ name = 'vehicle_wheels', price = 26 },
+			{ name = 'nitrous_install_kit', price = 26 },
+			{ name = 'empty_nitrous_bottle', price = 26 },
+			{ name = 'nitrous_bottle', price = 26 },
+			{ name = 'performance_part', price = 26 },
+			{ name = 'tyre_smoke_kit', price = 26 },
+			{ name = 'extras_kit', price = 26 },
+			{ name = 'stancing_kit', price = 26 },
+			{ name = 'respray_kit', price = 26 },
+			{ name = 'lighting_controller', price = 26 },
+			{ name = 'repair_kit', price = 26 },
+			{ name = 'cleaning_kit', price = 26 }
+		}, locations = {
+			vec3(-1406.65, -446.22, 35.91)
+		}, targets = {
+		}
+	},
+
+---^^^^ HAYES AUTO MECHANIC STORES ^^^----
+
 	BlackMarketArms = {
 		name = 'Black Market (Arms)',
 		inventory = {
