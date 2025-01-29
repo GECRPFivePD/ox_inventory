@@ -178,6 +178,7 @@ return {
 		}, locations = {
 			vec3(-1423.02, -456.38, 35.91)
 		}, targets = {
+			{ loc = vec3(-1422.55, -456.89, 35.91), length = 0.6, width = 0.5, heading = 360.0, minZ = 28.2, maxZ = 28.6, distance = 2.0 }
 		}
 	},
 
@@ -203,6 +204,7 @@ return {
 		}, locations = {
 			vec3(-1414.71, -451.23, 35.91)
 		}, targets = {
+			{ loc = vec3(-1416.0, -452.67, 35.91), length = 0.6, width = 0.5, heading = 360.0, minZ = 28.2, maxZ = 28.6, distance = 2.0 }
 		}
 	},
 
@@ -230,6 +232,7 @@ return {
 		}, locations = {
 			vec3(-1406.65, -446.22, 35.91)
 		}, targets = {
+			{ loc = vec3(-1408.15, -447.89, 35.91), length = 0.6, width = 0.5, heading = 360.0, minZ = 28.2, maxZ = 28.6, distance = 2.0 }
 		}
 	},
 
