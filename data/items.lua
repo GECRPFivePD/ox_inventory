@@ -1053,4 +1053,196 @@ return {
           event = "jg-mechanic:client:use-tablet",
         }
       },
+      ['drug_phone'] = {
+        label = 'Dokia Phone',
+        weight = 500,
+    },
+    ['pseudoephedrine'] = {
+        label = 'Pseudoephedrine',
+        weight = 500,
+    },
+    ['red_phosphorus'] = {
+        label = 'Red Phosphorus',
+        weight = 500,
+    },
+    ['hydrochloric_acid'] = {
+        label = 'Hydrochloric Acid',
+        weight = 500,
+    },
+    ['lithium'] = {
+        label = 'Lithium',
+        weight = 500,
+    },
+    ['anhydrous_ammonia'] = {
+        label = 'Anhydrous Ammonia',
+        weight = 500,
+    },
+    ['meth_oil'] = {
+        label = 'Methamphetamine oil',
+        weight = 500,
+    },
+    ['methamphetamine_base'] = {
+        label = 'Methamphetamine base',
+        weight = 500,
+    },
+    ['methamphetamine_hydrochloride'] = {
+        label = 'Methamphetamine hydrochloride',
+        weight = 500,
+    },
+    ['methamphetamine_crystal'] = {
+        label = 'Methamphetamine Crystal',
+        weight = 500,
+    },
+    ['microwave'] = {
+        label = 'Microwave',
+        weight = 500,
+    },
+    ['coca_leaves'] = {
+        label = 'Coca leaves',
+        weight = 500,
+    },
+    ['coke_filter'] = {
+        label = 'Coke Filter',
+        weight = 500,
+    },
+    ['coca_leaf_powder'] = {
+        label = 'Coca leaf powder',
+        weight = 500,
+    },
+    ['water_lab_bottle'] = {
+        label = 'Big water bottle',
+        weight = 500,
+    },
+    ['coca_gaso_infused'] = {
+        label = 'Cocaine-infused gasoline',
+        weight = 500,
+    },
+    ['coca_infused_liquid'] = {
+        label = 'Cocaine liquid',
+        weight = 500,
+    },
+    ['coca_powder'] = {
+        label = 'Cocaine powder',
+        weight = 500,
+    },
+    ['coke_brick'] = {
+        label = 'Cocaine brick',
+        weight = 500,
+    },
+    ['coke_baggy'] = {
+        label = 'Cocaine baggy',
+        weight = 500,
+    },
+    ['meth_baggy'] = {
+        label = 'Methamphetamine baggy',
+        weight = 500,
+    },
+    ['unpackaged_meth'] = {
+        label = 'Unpackaged methamphetamine',
+        weight = 500,
+    },
+    ['empty_pot'] = {
+        label = 'Empty pot',
+        weight = 500,
+    },
+    ['dirt_bag'] = {
+        label = 'Dirt bag',
+        weight = 500,
+    },
+    ['standing_fan'] = {
+        label = 'Standing fan',
+        weight = 500,
+    },
+    ['weed_spray_bottle'] = {
+        label = 'Spray bottle',
+        weight = 500,
+    },
+    ['weed_fertilizer'] = {
+        label = 'Weed fertilizer',
+        weight = 500,
+    },
+    ['weed_leaf_whitewidow'] = {
+        label = 'Weed leaf whitewidow',
+        weight = 500,
+    },
+    ['weed_leaf_skunk'] = {
+        label = 'Weed leaf skunk',
+        weight = 500,
+    },
+    ['weed_leaf_purplehaze'] = {
+        label = 'Weed leaf purplehaze',
+        weight = 500,
+    },
+    ['weed_leaf_og_kush'] = {
+        label = 'Weed leaf og kush',
+        weight = 500,
+    },
+    ['weed_leaf_amnesia'] = {
+        label = 'Weed leaf amnesia',
+        weight = 500,
+    },
+    ['weed_dried_leaf_whitewidow'] = {
+        label = 'Dried leaf whitewidow',
+        weight = 500,
+    },
+    ['weed_dried_leaf_skunk'] = {
+        label = 'Dried leaf skunk',
+        weight = 500,
+    },
+    ['weed_dried_leaf_purplehaze'] = {
+        label = 'Dried leaf purplehaze',
+        weight = 500,
+    },
+    ['weed_dried_leaf_og_kush'] = {
+        label = 'Dried leaf og kush',
+        weight = 500,
+    },
+    ['weed_dried_leaf_amnesia'] = {
+        label = 'Dried leaf amnesia',
+        weight = 500,
+    },
+    ['small_fan'] = {
+        label = 'Small fan',
+        weight = 500,
+    },
+    ['weed_light'] = {
+        label = 'Weed light',
+        weight = 500,
+    },
+    ['weed_baggy'] = {
+        label = 'Weed baggy',
+        weight = 500,
+    },
+    ['lab_coat'] = {
+        label = 'Lab coat',
+        weight = 500,
+    },
+    ['hammer'] = {
+        label = 'Hammer',
+        weight = 500,
+    },
+    ['empty_m_bag'] = {
+        label = 'Empty bag',
+        weight = 500,
+    },
+    ['weed_whitewidow_seed'] = {
+        label = 'Weed whitewidow seed',
+        weight = 500,
+    },
+    ['weed_skunk_seed'] = {
+        label = 'Weed skunk seed',
+        weight = 500,
+    },
+    ['weed_purplehaze_seed'] = {
+        label = 'Weed purplehaze seed',
+        weight = 500,
+    },
+    ['weed_ogkush_seed'] = {
+        label = 'Weed og kush seed',
+        weight = 500,
+    },
+    ['weed_amnesia_seed'] = {
+        label = 'Weed amnesia seed',
+        weight = 500,
+    },
 }
