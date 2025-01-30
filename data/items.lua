@@ -621,7 +621,12 @@ return {
 	},
 
     ['sandwich'] = {
-        label = 'beer',
+        label = 'Hamburger',
+        weight = 200,
+    },
+
+    ['cigs'] = {
+        label = 'Cigs',
         weight = 200,
     },
 
